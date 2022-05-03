@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888183507165",
+    "project_id": "desweb-dadb9",
+    "storage_bucket": "desweb-dadb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888183507165:android:b73b16394a50e26ee0b334",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888183507165-1t8pesob97bu67soi8kgvq2oenth4a68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdO9cPDvyTfiZ3huHSghCg6Vo1OHJQh9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888183507165-1t8pesob97bu67soi8kgvq2oenth4a68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
